@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jayesh-coder
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C++ and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jayeshsinha20112001@gmail.com
