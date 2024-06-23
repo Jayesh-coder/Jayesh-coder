@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayesh-coder" alt="jayesh-coder" /></a> </p>
 
-- 🔭 I’m currently working on [Finsy](https://github.com/Jayesh-coder/finsy)
+- 🔭 I’m currently working on [simple-crud-app](https://github.com/Jayesh-coder/simple-crud-app)
 
-- 🌱 I’m currently learning **Image and Video processing**
+- 🌱 I’m currently learning **CRUD**
 
 - 💬 Ask me about **React and Machine Learning**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [http://surl.li/mkurp](https://docs.google.com/document/d/12kx-Xt1qlY-YR7UAznxubXI_zDdp8GQO/edit?usp=sharing&ouid=101522105409305538879&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Did you know there are over 700 different programming languages?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
