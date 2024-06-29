@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jayeshsinha2001@gmail.com**
 
-- 📄 Know about my experiences [http://surl.li/mkurp](https://docs.google.com/document/d/12kx-Xt1qlY-YR7UAznxubXI_zDdp8GQO/edit?usp=sharing&ouid=101522105409305538879&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://tinyurl.com/mu9spk72](https://drive.google.com/file/d/1Gj1p0y1lYNfPhxSDSJ4JorcpDlW5CS9z/view?usp=sharing)
 
 - ⚡ Fun fact **Did you know there are over 700 different programming languages?**
 
